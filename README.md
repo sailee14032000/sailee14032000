@@ -13,7 +13,6 @@
     <a href="mailto:sailees14032000@gmail.com"><img src="assests/gmail.png"></a>
   </div>
 </div>
-![#161b22](https://via.placeholder.com/15/f03c15/000000?text=+) `#161b22`
 <!--
 **sailee14032000/sailee14032000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
