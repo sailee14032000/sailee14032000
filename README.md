@@ -10,11 +10,12 @@
   <div>
   <h3>Currently working on: </h3>
     
-  <p>
-    <h5>🎯 vALGO</h5>
-      This gui helps students to visualize various traversal and operations performed on data structure through amazing animations.<br>
-      <a href="https://github.com/sailee14032000/vALGO">Check it out</a>
-  </p>
+  <ul>
+    <li><h5><img src="https://github.com/sailee14032000/vALGO/blob/main/logos/png/mimg4.png" width="18px"> vALGO</h5>
+      <span>This gui helps students to visualize various traversal and operations performed on data structure through amazing animations.<br>
+        <a href="https://github.com/sailee14032000/vALGO">Check it out</a></span>
+    </li>
+  </ul>
   </div>
   <div class="social-links">
     <h4>Find me at:</h4>
