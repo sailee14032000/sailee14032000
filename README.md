@@ -1,4 +1,14 @@
-### Hi there 👋
+<img src="assests/aboutme.svg">
+<div class="about-me">
+  <p>I am currently pursuing my B.E in Information Technology at TSEC.</br>
+  I have worked as website developer intern at few companies.</p>
+</div>
+
+<div class="social-links">
+  <a href="https://www.linkedin.com/in/sailee-salgaonkar-1403/"><img src="assests/linkedin.png"></a>
+  <a href="mailto:sailees14032000@gmail.com"><img src="assests/gmail.png"></a>
+</div>
+
 
 <!--
 **sailee14032000/sailee14032000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
