@@ -1,4 +1,4 @@
-<div style="background:#161b22">
+<div style="background-color:#161b22">
   <img src="assests/aboutme.svg">
   <div class="about-me">
     <h3>About me : </h3>
