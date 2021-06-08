@@ -3,9 +3,9 @@
   <img src="assests/aboutme.svg">
   <div class="about-me">
     <h3>About me : </h3>
-    <p>🎓 I am currently pursuing my B.E in Information Technology 💻 at TSEC.</br>
-    💼 I have worked as 🌐 website developer intern at few companies and looking for opportunities to solve real world problems🌟<br>
-    </p>
+    <p>🎓 I am currently pursuing my B.E in Information Technology 💻 at TSEC.</p>
+    <p>💼 I have worked as 🌐 website developer intern at few companies and looking for opportunities to solve real world problems🌟</p>
+    
   </div>
   <div>
   <h3>Currently working on: </h3>
@@ -18,7 +18,7 @@
   </ul>
   </div>
   <div class="social-links">
-    <h4>Find me at:</h4>
+    <h3>Find me at:</h3>
     <a href="https://www.linkedin.com/in/sailee-salgaonkar-1403/"><img src="assests/linkedin.png"></a>
     <a href="mailto:sailees14032000@gmail.com"><img src="assests/gmail.png"></a>
   </div>
