@@ -1,7 +1,7 @@
 
 <div id="profile" style="background:#000000;padding:1em;">
   <img src="assests/aboutme.svg">
-  <div class="about-me">
+  <div class="about-me" style="background:#000000;padding:1em;">
     <h3>About me : </h3>
     <p>🎓 I am currently pursuing my B.E in Information Technology 💻 at TSEC.</p>
     <p>💼 I have worked as 🌐 website developer intern at few companies and looking for opportunities to solve real world problems🌟</p>
