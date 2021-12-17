@@ -1,5 +1,5 @@
 
-<div id="profile">
+<div id="profile" style="background:#000000;padding:1em;">
   <img src="assests/aboutme.svg">
   <div class="about-me">
     <h3>About me : </h3>
