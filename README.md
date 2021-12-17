@@ -23,8 +23,8 @@
     <a href="mailto:sailees14032000@gmail.com"><img src="assests/gmail.png"></a>
   </div>
   
-  
 </div>
+  
 <!--
 **sailee14032000/sailee14032000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -39,3 +39,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sailee14032000&count_private=true&theme=aura)
+
